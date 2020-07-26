@@ -1,0 +1,26 @@
+{
+    "package": {
+        "name": "Atteste",
+        "namespace": "medicalcertificate",
+        "version": "0.0.2",
+        "description": "Mit dieser Erweiterung ist es möglich, ärztliche Atteste zu verwalten.",
+        "author": {
+            "name": "Konrad Weiß",
+            "organisation": "Logilutions",
+            "url": "http://logilutions.de",
+            "email": "info@logilutions.de"
+        },
+        "keywords": [
+            "attest",
+            "arzt",
+            "ärztlich",
+            "doktor",
+            "sport",
+            "gesundheit"
+        ],
+        "images": {
+            "icon": "images/icon.png",
+            "banner": "images/banner.png"
+        }
+    }
+}
